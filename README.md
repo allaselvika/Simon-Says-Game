@@ -4,6 +4,8 @@ A fun and interactive Simon Says memory game built using HTML, CSS, and JavaScri
 The game challenges players to remember and repeat an increasingly long sequence of colors.
 Each round adds a new color, testing memory and focus.
 
+
+
 🚀 Features
 
 ✔️ Simple and responsive UI
@@ -15,6 +17,7 @@ Each round adds a new color, testing memory and focus.
 ✔️ Sound & visual feedback
 
 ✔️ Fully built using HTML, CSS, and JavaScript (no frameworks)
+
 
 
 
@@ -30,6 +33,8 @@ If the player clicks the wrong color → Game Over, and the level resets.
 
 
 
+
+
 📂 Technologies Used
 
 HTML – structure
@@ -40,10 +45,13 @@ JavaScript (app.js) – game logic, events, animations
 
 
 
+
 📁 Project Structure
 ├── index.html
 ├── style.css
 └── app.js
+
+
 
 
 
